@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\ForLoopsAndStrings\bin\Debug\netcoreapp3.1\ForLoopsAndStrings.exe
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\ForLoopsAndStrings\bin\Debug\netcoreapp3.1\ForLoopsAndStrings.deps.json
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\ForLoopsAndStrings\bin\Debug\netcoreapp3.1\ForLoopsAndStrings.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\ForLoopsAndStrings\bin\Debug\netcoreapp3.1\ForLoopsAndStrings.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\ForLoopsAndStrings\bin\Debug\netcoreapp3.1\ForLoopsAndStrings.dll
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\ForLoopsAndStrings\bin\Debug\netcoreapp3.1\ForLoopsAndStrings.pdb
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\ForLoopsAndStrings\obj\Debug\netcoreapp3.1\ForLoopsAndStrings.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\ForLoopsAndStrings\obj\Debug\netcoreapp3.1\ForLoopsAndStrings.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\ForLoopsAndStrings\obj\Debug\netcoreapp3.1\ForLoopsAndStrings.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\ForLoopsAndStrings\obj\Debug\netcoreapp3.1\ForLoopsAndStrings.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\ForLoopsAndStrings\obj\Debug\netcoreapp3.1\ForLoopsAndStrings.dll
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\ForLoopsAndStrings\obj\Debug\netcoreapp3.1\ForLoopsAndStrings.pdb
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\ForLoopsAndStrings\obj\Debug\netcoreapp3.1\ForLoopsAndStrings.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGITpe21\KiviPaberKäärid\KiviPaberKäärid\bin\Debug\netcoreapp3.1\KiviPaberKäärid.exe
+C:\Users\opilane\source\repos\LOGITpe21\KiviPaberKäärid\KiviPaberKäärid\bin\Debug\netcoreapp3.1\KiviPaberKäärid.deps.json
+C:\Users\opilane\source\repos\LOGITpe21\KiviPaberKäärid\KiviPaberKäärid\bin\Debug\netcoreapp3.1\KiviPaberKäärid.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITpe21\KiviPaberKäärid\KiviPaberKäärid\bin\Debug\netcoreapp3.1\KiviPaberKäärid.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITpe21\KiviPaberKäärid\KiviPaberKäärid\bin\Debug\netcoreapp3.1\KiviPaberKäärid.dll
+C:\Users\opilane\source\repos\LOGITpe21\KiviPaberKäärid\KiviPaberKäärid\bin\Debug\netcoreapp3.1\KiviPaberKäärid.pdb
+C:\Users\opilane\source\repos\LOGITpe21\KiviPaberKäärid\KiviPaberKäärid\obj\Debug\netcoreapp3.1\KiviPaberKäärid.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITpe21\KiviPaberKäärid\KiviPaberKäärid\obj\Debug\netcoreapp3.1\KiviPaberKäärid.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\KiviPaberKäärid\KiviPaberKäärid\obj\Debug\netcoreapp3.1\KiviPaberKäärid.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\KiviPaberKäärid\KiviPaberKäärid\obj\Debug\netcoreapp3.1\KiviPaberKäärid.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\KiviPaberKäärid\KiviPaberKäärid\obj\Debug\netcoreapp3.1\KiviPaberKäärid.dll
+C:\Users\opilane\source\repos\LOGITpe21\KiviPaberKäärid\KiviPaberKäärid\obj\Debug\netcoreapp3.1\KiviPaberKäärid.pdb
+C:\Users\opilane\source\repos\LOGITpe21\KiviPaberKäärid\KiviPaberKäärid\obj\Debug\netcoreapp3.1\KiviPaberKäärid.genruntimeconfig.cache

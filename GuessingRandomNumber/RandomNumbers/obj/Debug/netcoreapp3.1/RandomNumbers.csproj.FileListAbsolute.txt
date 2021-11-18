@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\LOGITpe21\GuessingRandomNumber\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITpe21\GuessingRandomNumber\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\GuessingRandomNumber\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\GuessingRandomNumber\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.csproj.CoreCompileInputs.cache

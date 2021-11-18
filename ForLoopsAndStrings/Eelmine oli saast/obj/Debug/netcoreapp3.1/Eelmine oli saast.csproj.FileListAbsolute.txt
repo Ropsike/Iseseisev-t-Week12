@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\Eelmine oli saast\bin\Debug\netcoreapp3.1\Eelmine oli saast.exe
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\Eelmine oli saast\bin\Debug\netcoreapp3.1\Eelmine oli saast.deps.json
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\Eelmine oli saast\bin\Debug\netcoreapp3.1\Eelmine oli saast.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\Eelmine oli saast\bin\Debug\netcoreapp3.1\Eelmine oli saast.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\Eelmine oli saast\bin\Debug\netcoreapp3.1\Eelmine oli saast.dll
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\Eelmine oli saast\bin\Debug\netcoreapp3.1\Eelmine oli saast.pdb
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\Eelmine oli saast\obj\Debug\netcoreapp3.1\Eelmine oli saast.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\Eelmine oli saast\obj\Debug\netcoreapp3.1\Eelmine oli saast.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\Eelmine oli saast\obj\Debug\netcoreapp3.1\Eelmine oli saast.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\Eelmine oli saast\obj\Debug\netcoreapp3.1\Eelmine oli saast.dll
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\Eelmine oli saast\obj\Debug\netcoreapp3.1\Eelmine oli saast.pdb
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\Eelmine oli saast\obj\Debug\netcoreapp3.1\Eelmine oli saast.genruntimeconfig.cache

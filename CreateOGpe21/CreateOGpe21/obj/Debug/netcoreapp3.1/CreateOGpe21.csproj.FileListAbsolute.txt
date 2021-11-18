@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGITpe21\CreateOGpe21\CreateOGpe21\obj\Debug\netcoreapp3.1\CreateOGpe21.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITpe21\CreateOGpe21\CreateOGpe21\obj\Debug\netcoreapp3.1\CreateOGpe21.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\CreateOGpe21\CreateOGpe21\obj\Debug\netcoreapp3.1\CreateOGpe21.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\CreateOGpe21\CreateOGpe21\obj\Debug\netcoreapp3.1\CreateOGpe21.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\CreateOGpe21\CreateOGpe21\bin\Debug\netcoreapp3.1\CreateOGpe21.exe
+C:\Users\opilane\source\repos\LOGITpe21\CreateOGpe21\CreateOGpe21\bin\Debug\netcoreapp3.1\CreateOGpe21.deps.json
+C:\Users\opilane\source\repos\LOGITpe21\CreateOGpe21\CreateOGpe21\bin\Debug\netcoreapp3.1\CreateOGpe21.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITpe21\CreateOGpe21\CreateOGpe21\bin\Debug\netcoreapp3.1\CreateOGpe21.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITpe21\CreateOGpe21\CreateOGpe21\bin\Debug\netcoreapp3.1\CreateOGpe21.dll
+C:\Users\opilane\source\repos\LOGITpe21\CreateOGpe21\CreateOGpe21\bin\Debug\netcoreapp3.1\CreateOGpe21.pdb
+C:\Users\opilane\source\repos\LOGITpe21\CreateOGpe21\CreateOGpe21\obj\Debug\netcoreapp3.1\CreateOGpe21.dll
+C:\Users\opilane\source\repos\LOGITpe21\CreateOGpe21\CreateOGpe21\obj\Debug\netcoreapp3.1\CreateOGpe21.pdb
+C:\Users\opilane\source\repos\LOGITpe21\CreateOGpe21\CreateOGpe21\obj\Debug\netcoreapp3.1\CreateOGpe21.genruntimeconfig.cache

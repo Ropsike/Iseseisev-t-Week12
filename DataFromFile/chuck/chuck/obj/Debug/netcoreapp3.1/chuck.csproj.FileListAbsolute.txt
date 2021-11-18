@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\LOGITpe21\DataFromFile\chuck\chuck\obj\Debug\netcoreapp3.1\chuck.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITpe21\DataFromFile\chuck\chuck\obj\Debug\netcoreapp3.1\chuck.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\DataFromFile\chuck\chuck\obj\Debug\netcoreapp3.1\chuck.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\DataFromFile\chuck\chuck\obj\Debug\netcoreapp3.1\chuck.csproj.CoreCompileInputs.cache
